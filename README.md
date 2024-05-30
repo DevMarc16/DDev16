@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Dillon M. Devera</h1>
-<h3 align="center">I am a dedicated blockchain enthusiast and a highly experienced full-stack developer who is deeply committed to the advancement of innovative blockchain applications. Over the past five years, I have diligently pursued self-directed learning, continually refining my skills in this dynamic field. It is noteworthy that a substantial portion of the code I have contributed is developed using Chat GPT 3.5 and 4, exemplifying my proficiency in harnessing cutting-edge technologies to drive blockchain innovation. My unwavering dedication and expertise empower me to craft groundbreaking blockchain solutions that consistently challenge and redefine the limits of prior achievements.</h3>
+<h3 align="center">I am a dedicated blockchain enthusiast and a highly experienced full-stack developer who is deeply committed to the advancement of innovative blockchain applications. Over the past five years, I have diligently pursued self-directed learning, continually refining my skills in this dynamic field. It is noteworthy that a substantial portion of the code I have contributed is developed using Chat GPT 3.5 and 4 and now ChatGpt4o, exemplifying my proficiency in harnessing cutting-edge technologies to drive blockchain innovation. My unwavering dedication and expertise empower me to craft groundbreaking blockchain solutions that consistently challenge and redefine the limits of prior achievements.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://3d-webgl-portfolio.vercel.app/static/media/DevD%20(4).5be5d787c161a2a9f36a.gif">
 
