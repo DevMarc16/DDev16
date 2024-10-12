@@ -42,13 +42,6 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <!-- Your existing languages and tools icons here -->
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddev16&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -69,7 +62,7 @@
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ddev16&theme=react-dark&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDev16&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
