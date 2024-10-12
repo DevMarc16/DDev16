@@ -80,16 +80,11 @@
 
 ---
 
-### 🕰️ Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ddev16" alt="Wakatime Stats" />
-</p>
-
----
 
 ### 🔥 Dynamic Quotes
 <p align="center">
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+### 🔥 Inspirational Quote
+> "The only way to do great work is to love what you do." — Steve Jobs
 </p>
 
 ---
