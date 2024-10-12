@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/dillondeve8428" target="blank"><img src="https://img.shields.io/twitter/follow/dillondeve8428?logo=twitter&style=for-the-badge" alt="dillondeve8428" /></a> </p>
 
-- 🔭 I’m currently working on **Soft Staking (Tiered)**
+- 🔭 I’m currently working on **BlockWork Blockchain Freelancing PLatform**
 
 - 🌱 I’m currently learning **React.js, Next.js, Solidity, Web3.js, Ether.js and many more**
 
