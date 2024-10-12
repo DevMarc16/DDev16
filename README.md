@@ -11,6 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ddev16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ddev16.ddev16" alt="Visitors Badge" />
 </p>
 
 <p align="center">
@@ -36,7 +37,7 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://twitter.com/dillondeve8428" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="transition: transform 0.3s;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 
@@ -63,6 +64,32 @@
 ### 📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDev16&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🖼️ Featured Repositories
+- 🚀 [BlockWork](https://github.com/DDev16/blockwork) - Blockchain Freelancing Platform
+- 🤖 [InMoov Robot](https://github.com/DDev16/inmoov) - AI-powered humanoid robot with blockchain integration
+
+---
+
+### 📕 Latest Blog Posts
+- [How I Built BlockWork](https://example.com)
+- [Understanding Blockchain Scaling](https://example.com)
+
+---
+
+### 🕰️ Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ddev16" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 🔥 Dynamic Quotes
+<p align="center">
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 </p>
 
 ---
