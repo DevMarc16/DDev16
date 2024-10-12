@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, Solidity, Web3.js, Ether.js and many more**
 
-- 👯 I’m looking to collaborate on **Any one :)**
+- 👯 I’m looking to collaborate on **https://Block-work.vercel.app**
 
-- 🤝 I’m looking for help with **An Immersive interactive Metaverse built in three.js and web3.js**
+- 🤝 I’m looking for help with **BlockWork**
 
 - 👨‍💻 All of my projects are available and pushed to github [https://github.com/DDev16?tab=repositories](https://github.com/DDev16?tab=repositories)
 
