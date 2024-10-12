@@ -74,12 +74,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-- [How I Built BlockWork](https://example.com)
-- [Understanding Blockchain Scaling](https://example.com)
-
----
-
 
 ### 🔥 Dynamic Quotes
 <p align="center">
