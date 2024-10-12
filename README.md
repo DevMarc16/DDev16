@@ -70,7 +70,7 @@
 
 ### 🖼️ Featured Repositories
 - 🚀 [BlockWork](https://github.com/DDev16/blockwork) - Blockchain Freelancing Platform
-- 🤖 [InMoov Robot](https://github.com/DDev16/inmoov) - AI-powered humanoid robot with blockchain integration
+- 🤖 [OpenX Robot](https://github.com/DDev16/inmoov) - AI-powered humanoid robot with blockchain integration
 
 ---
 
