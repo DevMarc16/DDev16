@@ -2,7 +2,7 @@
 
 <h1 align="center" style="background: linear-gradient(45deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Dillon M. Devera</h1>
 <h3 align="center" style="color: #6c757d;">
-  I am a dedicated blockchain enthusiast and a highly experienced full-stack developer committed to advancing innovative blockchain applications. Over the past five years, I have diligently pursued self-directed learning, refining my skills in this dynamic field. A substantial portion of my code contributions are developed using ChatGPT 3.5, 4, ChatGPT-4o, and now Claude 3.5 which is significantly better that gpt 4o,  showcasing my proficiency in leveraging cutting-edge technologies to drive blockchain innovation. My unwavering dedication and expertise empower me to craft groundbreaking blockchain solutions that consistently challenge and redefine the limits of prior achievements.
+  I am a dedicated blockchain enthusiast and a highly experienced full-stack developer committed to advancing innovative blockchain applications. Over the past five years, I have diligently pursued self-directed learning, refining my skills in this dynamic field. A substantial portion of my code contributions are developed using ChatGPT 3, 3.5, 4, ChatGPT-4o, and now Claude 3.5 which is significantly better that gpt 4o,  showcasing my proficiency in leveraging cutting-edge technologies to drive blockchain innovation. My unwavering dedication and expertise empower me to craft groundbreaking blockchain solutions that consistently challenge and redefine the limits of prior achievements.
 </h3>
 
 <p align="center">
