@@ -14,11 +14,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=ddev16.ddev16" alt="Visitors Badge" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/dillondeve8428" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/dillondeve8428?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
 
 ---
 
@@ -29,19 +24,8 @@
 - 🤝 I’m looking for help with **BlockWork**
 - 👨‍💻 All of my projects are available on GitHub: [DDev16 Repositories](https://github.com/DDev16?tab=repositories)
 - 💬 Ask me about **anything blockchain related**
-- 📫 How to reach me: **deveradillon@gmail.com**
 - ⚡ Fun fact: **I'm a very outgoing and ambitious person who loves spending time outdoors, camping, fishing, etc. I also love Melodic Dubstep**
 
----
-
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://twitter.com/dillondeve8428" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
