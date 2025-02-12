@@ -36,21 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddev16&" alt="GitHub Streak" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ddev16&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDev16&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ### 🖼️ Featured Repositories
 - 🚀 [BlockWork](https://github.com/DDev16/blockwork) - Blockchain Freelancing Platform
