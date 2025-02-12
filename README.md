@@ -27,15 +27,6 @@
 - ⚡ Fun fact: **I'm a very outgoing and ambitious person who loves spending time outdoors, camping, fishing, etc. I also love Melodic Dubstep**
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddev16&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=ddev16&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddev16&" alt="GitHub Streak" />
-</p>
-
 
 ### 🖼️ Featured Repositories
 - 🚀 [BlockWork](https://github.com/DDev16/blockwork) - Blockchain Freelancing Platform
