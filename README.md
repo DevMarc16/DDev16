@@ -54,17 +54,82 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
 
 <!-- Tech Stack Animation -->
 <h2 align="center">⚡ Technologies & Tools</h2>
+
+<details open>
+<summary><b>🔗 Blockchain & Web3</b></summary>
+<br>
 <p align="center">
-<img src="https://img.shields.io/badge/blockchain-%23121011.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ethers.js-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Truffle-2EA0D1?style=for-the-badge&logo=truffle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Frontend Development</b></summary>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/ThreeJS-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔙 Backend Development</b></summary>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Programming Languages</b></summary>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🛠 Development Tools</b></summary>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+</details>
 </p>
 
 <!-- GitHub Stats with Animations -->
@@ -107,12 +172,29 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
 <h2 align="center">💻 Programming Skills</h2>
 
 ```text
-Solidity      ███████████████████░   95%
-JavaScript    ████████████████████   90%
-React         ███████████████████░   85%
-Node.js       ██████████████████░░   80%
-Python        ████████████████░░░░   75%
-Rust          ███████████████░░░░░   70%
+Blockchain & Smart Contracts
+Solidity          ███████████████████░   95%
+Web3.js/Ethers.js ████████████████████   90%
+Smart Contracts   ███████████████████░   95%
+IPFS              ██████████████████░░   85%
+
+Frontend Development
+React/Next.js     ████████████████████   90%
+React Native      ███████████████████░   85%
+TypeScript        ██████████████████░░   80%
+Tailwind CSS      ████████████████████   90%
+
+Backend Development
+Node.js           ███████████████████░   85%
+GraphQL           ██████████████████░░   80%
+PostgreSQL/MongoDB ███████████████████░   85%
+Docker/K8s        ██████████████████░░   80%
+
+Programming Languages
+JavaScript        ████████████████████   90%
+Python           ███████████████████░   85%
+Rust             ██████████████████░░   80%
+Go               ███████████████░░░░░   75%
 ```
 
 <!-- Dynamic Quote -->
