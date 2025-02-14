@@ -69,6 +69,10 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
     <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
     <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=OpenZeppelin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flare_Network-E61B1B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABnSURBVHja7JNBCsAgDATXpv3/k3taepUmNQh6KB0QCLqZZYjKzAoAkrj5TEQWz0yS2PkkR9eI+NyZqvYVXncfy0fa3YWZ1XlxuWQL8F8BAAAAABDx75BlwflVL4YPbfd3k3UO6TcDAI4qJRf9B0Q2AAAAAElFTkSuQmCC&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Songbird_Network-F66B1C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABnSURBVHja7JNBCsAgDATXpv3/k3taepUmNQh6KB0QCLqZZYjKzAoAkrj5TEQWz0yS2PkkR9eI+NyZqvYVXncfy0fa3YWZ1XlxuWQL8F8BAAAAABDx75BlwflVL4YPbfd3k3UO6TcDAI4qJRf9B0Q2AAAAAElFTkSuQmCC&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAABnSURBVHja7JNBCsAgDATXpv3/k3taepUmNQh6KB0QCLqZZYjKzAoAkrj5TEQWz0yS2PkkR9eI+NyZqvYVXncfy0fa3YWZ1XlxuWQL8F8BAAAAABDx75BlwflVL4YPbfd3k3UO6TcDAI4qJRf9B0Q2AAAAAElFTkSuQmCC&logoColor=white"/>
+    <img src="https://img.shields.io/badge/XRPL-00AAE4?style=for-the-badge&logo=xrp&logoColor=white"/>
 </p>
 </details>
 
@@ -159,13 +163,38 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
 
 <!-- Featured Projects with Custom Cards -->
 <h2 align="center">🌟 Featured Projects</h2>
+
 <div align="center">
   <a href="https://github.com/DDev16/blockwork">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddev16&repo=blockwork&theme=radical" />
   </a>
+  <p align="center">
+    <strong>BlockWork</strong> - A revolutionary blockchain-based freelancing platform
+    <br/>
+    <a href="https://block-work.vercel.app" target="_blank">🌐 Live Demo</a> |
+    <a href="https://github.com/DDev16/blockwork" target="_blank">📘 Documentation</a>
+  </p>
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/DDev16/inmoov">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddev16&repo=inmoov&theme=radical" />
   </a>
+  <p align="center">
+    <strong>OpenX Robot</strong> - AI-powered humanoid robot with blockchain integration
+    <br/>
+    <a href="https://github.com/DDev16/inmoov/blob/main/README.md" target="_blank">📘 Documentation</a> |
+    <a href="https://github.com/DDev16/inmoov/blob/main/CONTRIBUTING.md" target="_blank">🤝 Contribute</a>
+  </p>
+</div>
+
+<!-- Project Metrics -->
+<div align="center">
+  <h3>📊 Project Statistics</h3>
+  <img src="https://img.shields.io/github/stars/DDev16/blockwork?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/DDev16/blockwork?style=for-the-badge&color=blue" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/DDev16/blockwork?style=for-the-badge&color=red" alt="Issues" />
+  <img src="https://img.shields.io/github/license/DDev16/blockwork?style=for-the-badge&color=green" alt="License" />
 </div>
 
 <!-- Skill Progress Bars -->
@@ -177,6 +206,13 @@ Solidity          ███████████████████░  
 Web3.js/Ethers.js ████████████████████   90%
 Smart Contracts   ███████████████████░   95%
 IPFS              ██████████████████░░   85%
+
+Blockchain Networks
+Ethereum/Polygon  ████████████████████   90%
+Flare Network     ███████████████████░   85%
+Songbird          ███████████████████░   85%
+Base              ██████████████████░░   80%
+XRPL              ██████████████████░░   80%
 
 Frontend Development
 React/Next.js     ████████████████████   90%
