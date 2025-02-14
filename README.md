@@ -161,61 +161,6 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
   <img src="https://github-profile-trophy.vercel.app/?username=ddev16&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
 </div>
 
-<!-- Featured Projects with Custom Cards -->
-<h2 align="center">🌟 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/DDev16/blockwork">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddev16&repo=blockwork&theme=radical" />
-  </a>
-  <p align="center">
-    <strong>BlockWork</strong> - A revolutionary blockchain-based freelancing platform
-    <br/>
-    <a href="https://block-work.vercel.app" target="_blank">🌐 Live Demo</a> |
-    <a href="https://github.com/DDev16/blockwork" target="_blank">📘 Documentation</a>
-  </p>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/DDev16/inmoov">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddev16&repo=inmoov&theme=radical" />
-  </a>
-  <p align="center">
-    <strong>OpenX Robot</strong> - AI-powered humanoid robot with blockchain integration
-    <br/>
-    <a href="https://github.com/DDev16/inmoov/blob/main/README.md" target="_blank">📘 Documentation</a> |
-    <a href="https://github.com/DDev16/inmoov/blob/main/CONTRIBUTING.md" target="_blank">🤝 Contribute</a>
-  </p>
-</div>
-
-<!-- Project Statistics -->
-<div align="center">
-  <h3>📊 Project Stats</h3>
-  
-  <!-- BlockWork Stats -->
-  <a href="https://github.com/DDev16/BlockWork">
-    <img src="https://img.shields.io/github/stars/DDev16/BlockWork?style=for-the-badge&color=yellow" alt="Stars" />
-  </a>
-  <a href="https://github.com/DDev16/BlockWork/network/members">
-    <img src="https://img.shields.io/github/forks/DDev16/BlockWork?style=for-the-badge&color=blue" alt="Forks" />
-  </a>
-  <a href="https://github.com/DDev16/BlockWork/issues">
-    <img src="https://img.shields.io/github/issues/DDev16/BlockWork?style=for-the-badge&color=red" alt="Issues" />
-  </a>
-  
-  <!-- OpenX Robot Stats -->
-  <a href="https://github.com/DDev16/OpenX">
-    <img src="https://img.shields.io/github/stars/DDev16/OpenX?style=for-the-badge&color=yellow" alt="Stars" />
-  </a>
-  <a href="https://github.com/DDev16/OpenX/network/members">
-    <img src="https://img.shields.io/github/forks/DDev16/OpenX?style=for-the-badge&color=blue" alt="Forks" />
-  </a>
-  <a href="https://github.com/DDev16/OpenX/issues">
-    <img src="https://img.shields.io/github/issues/DDev16/OpenX?style=for-the-badge&color=red" alt="Issues" />
-  </a>
-</div>
-</div>
-
 <!-- Skill Progress Bars -->
 <h2 align="center">💻 Programming Skills</h2>
 
