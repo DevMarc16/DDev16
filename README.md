@@ -188,63 +188,32 @@ fun_fact: Outdoor enthusiast & Melodic Dubstep lover
   </p>
 </div>
 
-<!-- Project Statistics Cards -->
+<!-- Project Statistics -->
 <div align="center">
-  <h3>📊 Project Statistics</h3>
+  <h3>📊 Project Stats</h3>
   
-  <!-- BlockWork Statistics -->
-  <details open>
-    <summary><b>BlockWork Platform Stats</b></summary>
-    <br/>
-    <p align="center">
-      <img src="https://img.shields.io/github/stars/DDev16/blockwork?style=plastic&logo=github&color=yellow&label=Stars" alt="GitHub Stars" />
-      <img src="https://img.shields.io/github/forks/DDev16/blockwork?style=plastic&logo=github&color=blue&label=Forks" alt="GitHub Forks" />
-      <img src="https://img.shields.io/github/watchers/DDev16/blockwork?style=plastic&logo=github&color=orange&label=Watchers" alt="GitHub Watchers" />
-      <img src="https://img.shields.io/github/issues/DDev16/blockwork?style=plastic&logo=github&color=red&label=Issues" alt="GitHub Issues" />
-      <img src="https://img.shields.io/github/issues-closed/DDev16/blockwork?style=plastic&logo=github&color=green&label=Issues%20Closed" alt="GitHub Closed Issues" />
-      <img src="https://img.shields.io/github/last-commit/DDev16/blockwork?style=plastic&logo=github&color=purple&label=Last%20Commit" alt="Last Commit" />
-      <img src="https://img.shields.io/github/commit-activity/m/DDev16/blockwork?style=plastic&logo=github&color=blue&label=Commit%20Activity" alt="Commit Activity" />
-    </p>
-  </details>
-
-  <!-- OpenX Robot Statistics -->
-  <details open>
-    <summary><b>OpenX Robot Stats</b></summary>
-    <br/>
-    <p align="center">
-      <img src="https://img.shields.io/github/stars/DDev16/inmoov?style=plastic&logo=github&color=yellow&label=Stars" alt="GitHub Stars" />
-      <img src="https://img.shields.io/github/forks/DDev16/inmoov?style=plastic&logo=github&color=blue&label=Forks" alt="GitHub Forks" />
-      <img src="https://img.shields.io/github/watchers/DDev16/inmoov?style=plastic&logo=github&color=orange&label=Watchers" alt="GitHub Watchers" />
-      <img src="https://img.shields.io/github/issues/DDev16/inmoov?style=plastic&logo=github&color=red&label=Issues" alt="GitHub Issues" />
-      <img src="https://img.shields.io/github/issues-closed/DDev16/inmoov?style=plastic&logo=github&color=green&label=Issues%20Closed" alt="GitHub Closed Issues" />
-      <img src="https://img.shields.io/github/last-commit/DDev16/inmoov?style=plastic&logo=github&color=purple&label=Last%20Commit" alt="Last Commit" />
-      <img src="https://img.shields.io/github/commit-activity/m/DDev16/inmoov?style=plastic&logo=github&color=blue&label=Commit%20Activity" alt="Commit Activity" />
-    </p>
-  </details>
-
-  <!-- Development Activity -->
-  <details open>
-    <summary><b>📈 Development Activity</b></summary>
-    <br/>
-    <p align="center">
-      <img src="https://img.shields.io/github/languages/count/DDev16/blockwork?style=plastic&logo=github&color=blue&label=Languages" alt="Languages" />
-      <img src="https://img.shields.io/github/languages/top/DDev16/blockwork?style=plastic&logo=github&color=blue&label=Top%20Language" alt="Top Language" />
-      <img src="https://img.shields.io/github/repo-size/DDev16/blockwork?style=plastic&logo=github&color=green&label=Repo%20Size" alt="Repo Size" />
-      <img src="https://img.shields.io/github/directory-file-count/DDev16/blockwork?style=plastic&logo=github&color=purple&label=Files" alt="File Count" />
-      <img src="https://img.shields.io/github/license/DDev16/blockwork?style=plastic&logo=github&color=yellow&label=License" alt="License" />
-    </p>
-  </details>
-
-  <!-- Smart Contract Metrics -->
-  <details open>
-    <summary><b>🔗 Smart Contract Metrics</b></summary>
-    <br/>
-    <p align="center">
-      <img src="https://img.shields.io/github/search/DDev16/blockwork/solidity?style=plastic&logo=ethereum&color=blue&label=Solidity%20Files" alt="Solidity Files" />
-      <img src="https://img.shields.io/github/search/DDev16/blockwork/contract?style=plastic&logo=ethereum&color=purple&label=Smart%20Contracts" alt="Smart Contracts" />
-      <img src="https://tokei.rs/b1/github/DDev16/blockwork?category=code" alt="Lines of code" />
-    </p>
-  </details>
+  <!-- BlockWork Stats -->
+  <a href="https://github.com/DDev16/BlockWork">
+    <img src="https://img.shields.io/github/stars/DDev16/BlockWork?style=for-the-badge&color=yellow" alt="Stars" />
+  </a>
+  <a href="https://github.com/DDev16/BlockWork/network/members">
+    <img src="https://img.shields.io/github/forks/DDev16/BlockWork?style=for-the-badge&color=blue" alt="Forks" />
+  </a>
+  <a href="https://github.com/DDev16/BlockWork/issues">
+    <img src="https://img.shields.io/github/issues/DDev16/BlockWork?style=for-the-badge&color=red" alt="Issues" />
+  </a>
+  
+  <!-- OpenX Robot Stats -->
+  <a href="https://github.com/DDev16/OpenX">
+    <img src="https://img.shields.io/github/stars/DDev16/OpenX?style=for-the-badge&color=yellow" alt="Stars" />
+  </a>
+  <a href="https://github.com/DDev16/OpenX/network/members">
+    <img src="https://img.shields.io/github/forks/DDev16/OpenX?style=for-the-badge&color=blue" alt="Forks" />
+  </a>
+  <a href="https://github.com/DDev16/OpenX/issues">
+    <img src="https://img.shields.io/github/issues/DDev16/OpenX?style=for-the-badge&color=red" alt="Issues" />
+  </a>
+</div>
 </div>
 
 <!-- Skill Progress Bars -->
