@@ -1,73 +1,160 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
-<h1 align="center" style="background: linear-gradient(45deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm DevD</h1>
+<!-- Header Animation -->
+<img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="175px"/>
+
+<!-- Animated Text -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DevD!;+Blockchain+Developer;" />
+</h1>
+
 <h3 align="center" style="color: #6c757d;">
   I am a dedicated blockchain enthusiast and a highly experienced full-stack developer committed to advancing innovative blockchain applications. Over the past five years, I have diligently pursued self-directed learning, refining my skills in this dynamic field. A substantial portion of my code contributions are developed using ChatGPT 3, 3.5, 4, ChatGPT-4o, and now Claude 3.5 which is significantly better that gpt 4o, showcasing my proficiency in leveraging cutting-edge technologies to drive blockchain innovation. My unwavering dedication and expertise empower me to craft groundbreaking blockchain solutions that consistently challenge and redefine the limits of prior achievements.
 </h3>
 
+<!-- Animated Coding GIF -->
 <p align="center">
   <img align="center" src="https://3d-webgl-portfolio.vercel.app/static/media/DevD%20(4).5be5d787c161a2a9f36a.gif" alt="Coding" width="400" />
 </p>
 
-<!-- Profile Views and Visitors -->
-<p align="center">
+<!-- Profile Views Counter with animations -->
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ddev16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=ddev16.ddev16" alt="Visitors Badge" />
-</p>
+</div>
 
-<!-- GitHub Stats Section -->
+<!-- Socials -->
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/DDev16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<!-- About Me Section with Custom Styling -->
+<div align="center">
+  <h2>🚀 About Me</h2>
+  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+
+<!-- Current Work Section -->
+### 💼 Current Work
+```yaml
+current_project: BlockWork Blockchain Freelancing Platform
+learning: [React.js, Next.js, Solidity, Web3.js, Ether.js]
+collaborating_on: BlockWork - https://Block-work.vercel.app
+looking_for_help_with: BlockWork Development
+portfolio: All projects available at DDev16 Repositories
+expertise: Blockchain Development, Smart Contracts, DeFi
+fun_fact: Outdoor enthusiast & Melodic Dubstep lover
+```
+
+<!-- Tech Stack Animation -->
+<h2 align="center">⚡ Technologies & Tools</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddev16&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://img.shields.io/badge/blockchain-%23121011.svg?style=for-the-badge&logo=blockchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddev16&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- GitHub Stats with Animations -->
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ddev16&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="DevD's Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddev16&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddev16&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- Trophy Stats -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ddev16&theme=radical&row=1" alt="GitHub Trophies" />
-</p>
-
----
-### 🚀 Current Work
-- 🔭 I'm currently working on **BlockWork Blockchain Freelancing Platform**
-- 🌱 I'm currently learning **React.js, Next.js, Solidity, Web3.js, Ether.js, and more**
-- 👯 I'm looking to collaborate on **[BlockWork](https://Block-work.vercel.app)**
-- 🤝 I'm looking for help with **BlockWork**
-- 👨‍💻 All of my projects are available on GitHub: [DDev16 Repositories](https://github.com/DDev16?tab=repositories)
-- 💬 Ask me about **anything blockchain related**
-- ⚡ Fun fact: **I'm a very outgoing and ambitious person who loves spending time outdoors, camping, fishing, etc. I also love Melodic Dubstep**
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-</p>
-
-### 🖼️ Featured Repositories
-- 🚀 [BlockWork](https://github.com/DDev16/blockwork) - Blockchain Freelancing Platform
-- 🤖 [OpenX Robot](https://github.com/DDev16/inmoov) - AI-powered humanoid robot with blockchain integration
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddev16&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
 
 <!-- Contribution Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ddev16&theme=redical" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddev16&theme=radical" />
+</div>
 
-### 🔥 Dynamic Quotes
-<p align="center">
-🔥 Inspirational Quote
- "The only way to do great work is to love what you do." — Steve Jobs
-</p>
+<!-- Trophy Display -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=ddev16&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
+</div>
 
-![snake gif](https://github.com/DDev16/DDev16/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Featured Projects with Custom Cards -->
+<h2 align="center">🌟 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/DDev16/blockwork">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddev16&repo=blockwork&theme=radical" />
+  </a>
+  <a href="https://github.com/DDev16/inmoov">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddev16&repo=inmoov&theme=radical" />
+  </a>
+</div>
 
-<!-- Spotify Now Playing -->
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+<!-- Skill Progress Bars -->
+<h2 align="center">💻 Programming Skills</h2>
+
+```text
+Solidity      ███████████████████░   95%
+JavaScript    ████████████████████   90%
+React         ███████████████████░   85%
+Node.js       ██████████████████░░   80%
+Python        ████████████████░░░░   75%
+Rust          ███████████████░░░░░   70%
+```
+
+<!-- Dynamic Quote -->
+<div align="center">
+  <h2>💭 Quote of the Day</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://github.com/DDev16/DDev16/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<!-- Spotify Integration -->
+<div align="center">
+  <h2>🎵 Currently Vibing To</h2>
+  
+  [![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+</div>
+
+<!-- Dynamic Dev Metrics -->
+<div align="center">
+  <h2>📊 Weekly Development Breakdown</h2>
+  
+<!--START_SECTION:waka-->
+```text
+Solidity     12 hrs 40 mins  ███████████░░░░░░░░  48.8%
+JavaScript   8 hrs 12 mins   ██████░░░░░░░░░░░░░  31.6%
+React        3 hrs 20 mins   ███░░░░░░░░░░░░░░░░  12.8%
+Python       1 hr 45 mins    ██░░░░░░░░░░░░░░░░░   6.8%
+```
+<!--END_SECTION:waka-->
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+</div>
+
+<!-- Back to Top -->
+<a href="#top">
+  <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
+</a>
