@@ -206,7 +206,7 @@ Go               ███████████████░░░░░   
 <!-- Contribution Snake -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
-  <img src="https://github.com/devmarc16/devmarc16/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/DevMarc16/DDev16/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!-- Spotify Integration -->
